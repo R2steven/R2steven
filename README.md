@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @R2steven
 - 👀 I’m interested in Physics and Math
-- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
