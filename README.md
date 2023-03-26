@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R2steven
 - 👀 I’m interested in Physics and Math
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on learning openGL
 - 📫 How to reach me 
 
 <!---
